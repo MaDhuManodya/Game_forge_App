@@ -1,6 +1,8 @@
+
 // PascalCasing
 function Message() {
-  return <div>Hellow World</div>;
+    // JSX: JavaSript XML
+  return <h1>Hellow World</h1>;
 }
 
 export default Message;
